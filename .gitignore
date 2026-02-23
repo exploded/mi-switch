@@ -1,2 +1,4 @@
 *.exe
 .claude/
+settings.json
+*.bat
