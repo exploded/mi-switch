@@ -4,6 +4,8 @@ A minimal CLI tool to control Xiaomi Mi Smart Plugs (Wi-Fi power switches) from 
 
 Uses the Xiaomi UDP protocol with AES-CBC encryption — no cloud, no account, no dependencies.
 
+![Xiaomi Wi-Fi Switch](xiaomi-wifi-switch.jpg)
+
 ## Requirements
 
 - Go 1.21 or later
